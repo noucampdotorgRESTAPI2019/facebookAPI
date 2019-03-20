@@ -44,6 +44,8 @@ The program below has the code needed to access a facebook App and display some 
 
 1.  Using your browser open the file [HelloFacebook.html](http://localhost/facebookAPI/HelloFacebook.html).  
 
+    ![](../images/HelloFacebook.png)
+
     You should see some _status_ information and _response_ data retrieved from facebook.
 
     If you're not logged in use the login button to login to facebook.
