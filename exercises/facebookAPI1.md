@@ -102,3 +102,16 @@ To get more information about a user using your facebook App is easy.
 
 1.  Try getting access to a few more user properties e.g. _hometown_ and _birthday_.
 
+
+## Update to GitHub
+
+1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+
+	```
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 1 - DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
