@@ -68,7 +68,7 @@ To get more information about a user using your facebook App is easy.
 1.  First, use the Graph API Explorer to request from the user the information your app wants.
     For example, below we want to request the user to share his/her ``email`` and ``gender``.
 
-    ![](images/selectPermissions.png)
+    ![](../images/selectPermissions.png)
 
     Do this now with your App.
 
