@@ -100,5 +100,5 @@ To get more information about a user using your facebook App is easy.
     
     You should see the _response_ data has the new user properties.
 
-1.  Try getting access to a few more user properties.
+1.  Try getting access to a few more user properties e.g. _hometown_ and _birthday_.
 
